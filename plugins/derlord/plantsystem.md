@@ -1,5 +1,5 @@
 ---
-layout: ../../../layouts/Main.astro
+layout: ../../../../layouts/Main.astro
 title: 'Athena Plantsystem'
 description: "Plant system which lets players place weed plants and also harvest them based on Athena's Interaction Controllers."
 author: 'Der Lord!'
