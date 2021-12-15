@@ -5,7 +5,7 @@ title: "Moderator Commands"
 description: "Adds the much needed in-game commands for moderators and administrators."
 author: "Stuyk"
 version: "3.0.0+"
-images: ["https://i.imgur.com/ScnIFEt.png"]
+images: ["https://i.imgur.com/ScnIFEt.png", "https://i.imgur.com/MYfRSnp.jpeg"]
 keywords: ["free", "server", "system", "utility"]
 url: "https://github.com/Stuyk/athena-moderator-commands"
 
