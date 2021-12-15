@@ -1,0 +1,23 @@
+{
+  "name": "altv-athena-plugins-md",
+  "version": "1.0.0",
+  "description": "Contribute your plugins by making a pull request to this repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./scripts/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stuyk/altv-athena-plugins-md.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stuyk/altv-athena-plugins-md/issues"
+  },
+  "homepage": "https://github.com/Stuyk/altv-athena-plugins-md#readme",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "glob": "^7.2.0"
+  }
+}
