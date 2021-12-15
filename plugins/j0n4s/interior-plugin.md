@@ -1,11 +1,11 @@
 ---
 
-layout: ../../../layouts/Main.astro
+layout: ../../../../layouts/Main.astro
 title: "Interior Plugin"
 description: "This Plugin helps you to find an interior including position and ipl informations"
 author: "j0n4s"
 version: "3.0.0+"
-images: []
+images: ["https://i.imgur.com/K4QjdzE.png"]
 keywords: ["free", "client", "server", "data"]
 url: "https://github.com/jonasesser/altv-athena-plugin-interior"
 
