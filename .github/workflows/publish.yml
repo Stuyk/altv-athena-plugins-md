@@ -1,0 +1,16 @@
+name: Trigger Build
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Trigger Workflow and Wait
+        uses: convictional/trigger-workflow-and-wait@v1.5.0
+        with:
+          owner: "stuyk"
+          repo: "altv-athena-plugins"
+          github_token: ${{ secrets.CI_SECRET }}
+          workflow_file_name: main.yml
