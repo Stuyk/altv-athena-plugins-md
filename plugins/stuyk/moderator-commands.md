@@ -1,6 +1,6 @@
 ---
 
-layout: ../../../layouts/Main.astro
+layout: ../../../../layouts/Main.astro
 title: "Moderator Commands"
 description: "Adds the much needed in-game commands for moderators and administrators."
 author: "Stuyk"
