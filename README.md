@@ -19,7 +19,7 @@ Act responsibly.
 ```md
 ---
 
-layout: ../../../layouts/Main.astro
+layout: ../../../../layouts/Main.astro
 title: "Example Plugin"
 description: "Really cool plant system that does plant things."
 author: "Stuyk"
@@ -48,7 +48,7 @@ Ensure that your front matter is
 ```md
 ---
 
-layout: ../../../layouts/Main.astro
+layout: ../../../../layouts/Main.astro
 title: "Example Premium Plugin"
 description: "Really cool plant system that does plant things."
 author: "Stuyk"
