@@ -9,6 +9,7 @@ images: ["https://i.imgur.com/NOBWMXT.png"]
 keywords: ["premium", "client", "player", "system"]
 url: "https://mygp.gumroad.com/l/plugin-hotel"
 price: "9.99"
+discord: "j0n4s#8301"
 
 ---
 
@@ -26,7 +27,7 @@ https://mygp.gumroad.com/l/vehicledamage
 2. Copy folder plugins/gpVehicleDamage/ to your athena project under src/core/plugins/
 3. Import server plugin in src/core/plugins/imports.ts:
 
-    ```import './gpVehicleDamage/index';```
+    `import './gpVehicleDamage/index';`
     
 4. One change at the athena core is necessary (currently not found a good way around it):
 
