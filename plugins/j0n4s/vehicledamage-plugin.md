@@ -5,9 +5,9 @@ title: "Vehicle Damage Plugin"
 description: "This Plugin saves the vehicle damage on wheels, windows and lights in the athena database."
 author: "j0n4s"
 version: "3.0.0+"
-images: ["https://i.imgur.com/NOBWMXT.png"]
+images: ["https://i.imgur.com/0Z4VZnC.png"]
 keywords: ["premium", "client", "player", "system"]
-url: "https://mygp.gumroad.com/l/plugin-hotel"
+url: "https://mygp.gumroad.com/l/vehicledamage"
 price: "9.99"
 discord: "j0n4s#8301"
 
