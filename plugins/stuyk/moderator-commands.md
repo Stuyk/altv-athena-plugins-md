@@ -8,6 +8,7 @@ version: "3.0.0+"
 images: ["https://i.imgur.com/ScnIFEt.png"]
 keywords: ["free", "server", "system", "utility"]
 url: "https://github.com/Stuyk/athena-moderator-commands"
+discord: "stuyk#0001"
 
 ---
 
@@ -55,7 +56,7 @@ Modify `src/core/plugins/imports.ts` and append the following in your `filePaths
 
 What to Append:
 
-```typescript
+```ts
 import './athena-moderator-commands-main/index';
 ```
 
@@ -63,43 +64,43 @@ import './athena-moderator-commands-main/index';
 
 ### Admin Private Message
 
-```typescript
+```ts
 /apm [in-game id] [?...message]
 ```
 
 ### Kick
 
-```typescript
+```ts
 /kick [in-game id] [?...reason]
 ```
 
 ### Ban
 
-```typescript
+```ts
 /ban [in-game id] [?...reason]'
 ```
 
 ### Unban
 
-```typescript
+```ts
 /unban [discord id] [?...reason]
 ```
 
 ### Info
 
-```typescript
+```ts
 /info [in-game id]
 ```
 
 ### Teleport to Player
 
-```typescript
+```ts
 /tpto [in-game id]
 ```
 
 ### Teleport Player to You
 
-```typescript
+```ts
 /tphere [in-game id]
 ```
 
@@ -107,13 +108,13 @@ import './athena-moderator-commands-main/index';
 
 Also kicks the player out of their vehicle if they are in one.
 
-```typescript
+```ts
 /freeze [in-game id]
 ```
 
 ### Unfreeze Target
 
-```typescript
+```ts
 /unfreeze [in-game id]
 ```
 

@@ -27,6 +27,7 @@ version: "3.0.0+"
 images: ["https://i.imgur.com/BZOzE6L.png", "https://i.imgur.com/Vqqe582.png", "https://i.imgur.com/sqKwAai.png"]
 keywords: ["free", "client", "player", "system"]
 url: "https://github.com/"
+discord: "xyz#5555 OR discord url"
 
 ---
 
@@ -57,6 +58,7 @@ images: ["https://i.imgur.com/BZOzE6L.png", "https://i.imgur.com/Vqqe582.png", "
 keywords: ["premium", "client", "player", "system"]
 url: "https://whatever.provider.com"
 price: "5.99"
+discord: "xyz#5555 OR discord url"
 
 ---
 
