@@ -1,12 +1,13 @@
 ---
 layout: ../../../../layouts/Main.astro
-title: 'Athena Doorlock System'
-description: "Doorsystem which enables you to lock/unlock door based on a player or faction."
+title: 'Door Lock System'
+description: "Door system which enables you to lock/unlock door based on a player or faction."
 author: 'Der Lord!'
 version: '3.0.0+'
 images: ['https://user-images.githubusercontent.com/82890183/136729801-b86dc411-56e7-4d90-b8fb-a308143823b4.png']
 keywords: ['free', 'player', 'system', 'streamer', 'client']
 url: 'https://github.com/Booster1212/AthenaDoorlock'
+discord: "Der Lord!#6021"
 ---
 
 ### Features
@@ -28,12 +29,14 @@ url: 'https://github.com/Booster1212/AthenaDoorlock'
 - Add “doors” to your MONGO_COLLECTIONS= in the .env file.
 
 imports.ts (Clientside)
-```typescript 
+
+```ts 
 import './AthenaDoorlock/main';
 import './AthenaDoorlock/wheelmenu';
 ```
+
 imports.ts (Serverside)
-```typescript
+```ts
 './AthenaDoorlock/main',
 './AthenaDoorlock/streamer',
 './AthenaDoorlock/interface',

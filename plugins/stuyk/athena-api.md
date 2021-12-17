@@ -1,13 +1,14 @@
 ---
 
 layout: ../../../../layouts/Main.astro
-title: "Athena API"
+title: "API Service"
 description: "A REST service for Athena internal gamemode. Can be used to get various player data."
 author: "Stuyk"
 version: "3.0.0+"
 images: ["https://i.imgur.com/Z97e7J7.png", "https://i.imgur.com/WFmo6uG.png", "https://i.imgur.com/mcHA98R.png"]
 keywords: ["free", "server", "utility", "data"]
 url: "https://github.com/Stuyk/altv-athena-api"
+discord: "stuyk#0001"
 
 ---
 
