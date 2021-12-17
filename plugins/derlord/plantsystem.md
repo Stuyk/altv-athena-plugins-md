@@ -1,12 +1,13 @@
 ---
 layout: ../../../../layouts/Main.astro
-title: 'Athena Plantsystem'
+title: 'Plant System'
 description: "Plant system which lets players place weed plants and also harvest them based on Athena's Interaction Controllers."
 author: 'Der Lord!'
 version: '3.0.0+'
 images: ['https://user-images.githubusercontent.com/82890183/131876685-13775cce-d8ee-4eb5-b95e-b3ad8520a3cf.png']
 keywords: ['free', 'player', 'system']
 url: 'https://github.com/Booster1212/AthenaPlantsystem'
+discord: "Der Lord!#6021"
 ---
 
 # Plantsystem for the Athena Framework by Der Lord!
