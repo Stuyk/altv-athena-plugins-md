@@ -60,6 +60,7 @@ https://github.com/jonasesser/altv-athena-plugin-interior
 
 # Example Hotel:
 
+```
 - NAME OF PROPERTY: Hilton
 - PRICE OF HOTEL: 150000
 - NUMBER OF UNITS: 50
@@ -70,3 +71,4 @@ https://github.com/jonasesser/altv-athena-plugin-interior
 - OPTIONAL PED ROTATION FOR RECEPTION: {"x":0,"y":0,"z":-0.05012647807598114}
 - POSTITION OF DEFAULT INTERIOR: {"x":152.2605,"y":-1004.471,"z":-98.99999}
 - OPTIONAL IPL FOR INTERIOR: null
+```
