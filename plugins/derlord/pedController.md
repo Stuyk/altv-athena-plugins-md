@@ -29,11 +29,11 @@ discord: "Der Lord!#6021"
 imports.ts (Clientside)
 
 ```ts 
-import './AthenaPeds/main';
+import './AthenaPeds/index';
 ```
 
 imports.ts (Serverside)
 ```ts
-'./AthenaPeds/main',
+'./AthenaPeds/index',
 ```
 
