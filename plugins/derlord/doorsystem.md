@@ -5,7 +5,7 @@ description: 'Door system which enables you to lock/unlock door based on a playe
 author: 'Der Lord!'
 version: '3.0.0+'
 images:
-['https://user-images.githubusercontent.com/82890183/147381214-0e993fe0-1d9c-48dc-8751-65a46696c4d1.png','https://user-images.githubusercontent.com/82890183/147381524-93c23c14-1c1b-4ba7-8b8b-067a18921167.png','https://user-images.githubusercontent.com/82890183/147381220-b48ebfc4-b6a7-4759-b995-382c99c7c59b.png','https://user-images.githubusercontent.com/82890183/147381230-4340e69b-ce00-48c8-92ea-fec27845489d.png','https://user-images.githubusercontent.com/82890183/147381159-b57320c1-1f3a-495e-8055-bd5b3e8cf860.png']
+['https://user-images.githubusercontent.com/82890183/147381214-0e993fe0-1d9c-48dc-8751-65a46696c4d1.png', 'https://user-images.githubusercontent.com/82890183/147381524-93c23c14-1c1b-4ba7-8b8b-067a18921167.png', 'https://user-images.githubusercontent.com/82890183/147381220-b48ebfc4-b6a7-4759-b995-382c99c7c59b.png', 'https://user-images.githubusercontent.com/82890183/147381230-4340e69b-ce00-48c8-92ea-fec27845489d.png', 'https://user-images.githubusercontent.com/82890183/147381159-b57320c1-1f3a-495e-8055-bd5b3e8cf860.png']
 keywords: ['free', 'player', 'system', 'streamer', 'client']
 url: 'https://github.com/Booster1212/AthenaDoorlock'
 discord: 'Der Lord!#6021'
