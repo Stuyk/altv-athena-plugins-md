@@ -7,7 +7,7 @@ author: "j0n4s"
 version: "3.0.0+"
 images: ["https://i.imgur.com/ChQzzPI.png"]
 keywords: ["free", "client", "server", "data"]
-url: "https://github.com/jonasesser/altv-athena-plugin-interior"
+url: "https://github.com/jonasesser/altv-athena-plugin-portal"
 discord: "j0n4s#8301"
 
 ---
