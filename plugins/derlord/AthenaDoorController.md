@@ -6,7 +6,7 @@ author: 'Der Lord!'
 version: '3.0.0+'
 images: ['https://user-images.githubusercontent.com/82890183/147709903-28af3180-38fe-4aa0-b11e-70813c11df79.png', 'https://user-images.githubusercontent.com/82890183/147631180-c26ff168-ab1c-4ae8-83ab-fa152e2e665d.png', 'https://user-images.githubusercontent.com/82890183/147631218-c2468894-1b0a-4a6b-ac0a-a5f7cb6a5f5f.png']
 keywords: ['free', 'player', 'system', 'streamer', 'client']
-url: 'https://github.com/Booster1212/AthenaDoorlock'
+url: 'https://github.com/Booster1212/AthenaDoorController'
 discord: 'Der Lord!#6021'
 ---
 
