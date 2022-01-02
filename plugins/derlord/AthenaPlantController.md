@@ -1,24 +1,13 @@
 ---
 layout: ../../../../layouts/Main.astro
-title: 'Plant System'
-description: "Plant system which lets players place weed plants and also harvest them based on Athena's Interaction Controllers."
+title: 'AthenaPlantController'
+description: "Be some funny weed gardener and manage your plants."
 author: 'Der Lord!'
 version: '3.0.0+'
-images: ['https://user-images.githubusercontent.com/82890183/131876685-13775cce-d8ee-4eb5-b95e-b3ad8520a3cf.png']
+images: ['https://user-images.githubusercontent.com/82890183/147866518-ca690889-0a1a-4ac8-9831-54b3b762b1ec.png', 'https://user-images.githubusercontent.com/82890183/147868854-2354f997-12f6-41a4-a6d0-993f96a208e6.png', 'https://user-images.githubusercontent.com/82890183/147867739-5123726b-0c8a-4e42-8cbe-4bd6e34835c9.png', 'https://user-images.githubusercontent.com/82890183/147867743-d105fedf-f559-4136-acfd-bc585d7a9c61.png']
 keywords: ['free', 'player', 'system']
-url: 'https://github.com/Booster1212/AthenaPlantsystem'
+url: 'https://github.com/Booster1212/AthenaPlantController'
 discord: 'Der Lord!#6021'
----
----
-layout: ../../../../layouts/Main.astro
-title: 'Plant System'
-description: "Plant system which lets players place weed plants and also harvest them based on Athena's Interaction Controllers."
-author: 'Der Lord!'
-version: '3.0.0+'
-images: ['https://user-images.githubusercontent.com/82890183/131876685-13775cce-d8ee-4eb5-b95e-b3ad8520a3cf.png']
-keywords: ['free', 'player', 'system']
-url: 'https://github.com/Booster1212/AthenaPlantsystem'
-discord: "Der Lord!#6021"
 ---
 # Athena Framework - PlantController
 
