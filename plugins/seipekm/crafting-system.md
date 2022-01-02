@@ -13,7 +13,7 @@ discord: "seipekm#0300"
 
 ---
 
-# Farming System Premium Plugin
+# Crafting System Premium Plugin
 
 ## Features
 - Add Crafting Points and Crafting Item over config file (craftingList.ts)
