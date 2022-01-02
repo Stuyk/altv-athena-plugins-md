@@ -35,6 +35,7 @@ import './AthenaPlantController/index';
 
 ## Setup Items
 - Be careful that you'll need same type & variety!
+- Seeds need to be in Toolbar Slot 0 for now!
 
 ```typescript
 // Seeds (Build a new Plant)
