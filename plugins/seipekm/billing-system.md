@@ -1,24 +1,25 @@
 ---
 
 layout: ../../../../layouts/Main.astro
-title: "City Hall System Premium Plugin"
-description: "Buy license and change car plate text"
+title: "Billing System Premium Plugin"
+description: "Billing Create and pay System"
 author: "SeipekM"
 version: "3.0.0+"
-images: ["https://i.imgur.com/MR1PvP5.png"]
+images: ["https://i.imgur.com/LD5SlTg.png"]
 keywords: ["premium", "server", "player", "system"]
-url: "seipekm.gumroad.com/l/itqhs"
+url: "seipekm.gumroad.com/l/zqdbj"
 price: "25.00"
 discord: "seipekm#0300"
 
 ---
 
-# City Hall System Premium Plugin
+# Billing System Premium Plugin
 
 ## Features
-- Purchase of identity card
-- Purchase of provisional driver’s license
-- Change of car license plate
+- Preparation of fractional invoices
+- Paying via billing system
+- Overview of own invoices
+- Overview of created invoice
 
 # Installation Instructions
 
@@ -28,10 +29,10 @@ discord: "seipekm#0300"
 
 ### imports.ts (Serverside)
 ```ts
-import './seipekm-cityhall/index';
+import './seipekm-billing-system/index';
 ```
 
 ### imports.ts (Clientside)
 ```ts
-import './seipekm-cityhall/index';
+import './seipekm-billing-system/index';
 ```

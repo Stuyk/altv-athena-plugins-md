@@ -4,10 +4,10 @@ layout: ../../../../layouts/Main.astro
 title: "Crafting System Premium Plugin"
 description: "Crafting Spots and Crafting Items"
 author: "SeipekM"
-version: "2.0.3"
+version: "3.0.0+"
 images: ["https://i.imgur.com/XXdxm6i.png"]
 keywords: ["premium", "server", "player", "system"]
-url: "https://shoppy.gg/product/e7taL5J"
+url: "seipekm.gumroad.com/l/byzby"
 price: "15.00"
 discord: "seipekm#0300"
 
@@ -27,6 +27,5 @@ discord: "seipekm#0300"
 
 ### imports.ts (Serverside)
 ```ts
-'./craftingsystem/index',
-'./craftingsystem/items',
+import './seipekm-crafting-system/index';
 ```
