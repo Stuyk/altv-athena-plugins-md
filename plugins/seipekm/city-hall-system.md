@@ -7,7 +7,7 @@ author: "SeipekM"
 version: "3.0.0+"
 images: ["https://i.imgur.com/MR1PvP5.png"]
 keywords: ["premium", "server", "player", "system"]
-url: "seipekm.gumroad.com/l/itqhs"
+url: "https://seipekm.gumroad.com/l/itqhs"
 price: "25.00"
 discord: "seipekm#0300"
 

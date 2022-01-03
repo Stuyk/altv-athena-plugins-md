@@ -7,7 +7,7 @@ author: "SeipekM"
 version: "3.0.0+"
 images: ["https://i.imgur.com/D36ox7s.png"]
 keywords: ["premium", "server", "player", "system"]
-url: "seipekm.gumroad.com/l/yeysa"
+url: "https://seipekm.gumroad.com/l/yeysa"
 price: "30.00"
 discord: "seipekm#0300"
 

@@ -7,7 +7,7 @@ author: "SeipekM"
 version: "3.0.0+"
 images: ["https://i.imgur.com/0UYGkJG.png"]
 keywords: ["premium", "server", "player", "system"]
-url: "seipekm.gumroad.com/l/zuhad"
+url: "https://seipekm.gumroad.com/l/zuhad"
 price: "15.00"
 discord: "seipekm#0300"
 
