@@ -4,10 +4,10 @@ layout: ../../../../layouts/Main.astro
 title: "Farming System Premium Plugin"
 description: "Farming Spots and Items"
 author: "SeipekM"
-version: "2.0.3"
+version: "3.0.0+"
 images: ["https://i.imgur.com/0UYGkJG.png"]
 keywords: ["premium", "server", "player", "system"]
-url: "https://shoppy.gg/product/vRx7y9H"
+url: "https://seipekm.gumroad.com/l/zuhad"
 price: "15.00"
 discord: "seipekm#0300"
 
@@ -27,6 +27,5 @@ discord: "seipekm#0300"
 
 ### imports.ts (Serverside)
 ```ts
-'./farmingsystem/index',
-'./farmingsystem/items',
+import './seipekm-farming-system/index';
 ```
