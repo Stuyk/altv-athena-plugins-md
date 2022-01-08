@@ -4,7 +4,7 @@ title: 'Open Source Shop'
 description: "Bringing Shops to the Athena Framework, absolute free and open source!"
 author: 'Der Lord!'
 version: '3.0.0+'
-images: ['https://user-images.githubusercontent.com/82890183/148142146-ba173e98-4c11-47d9-95da-6d83de2608af.png', 'https://user-images.githubusercontent.com/82890183/148335389-30f30d20-1228-45e0-b668-959eb37f7317.png']
+images: ['https://user-images.githubusercontent.com/82890183/148626519-5dc1ced7-a4d9-4f86-a349-26e58729cea8.png', 'https://user-images.githubusercontent.com/82890183/148335389-30f30d20-1228-45e0-b668-959eb37f7317.png']
 keywords: ['free', 'player', 'server', 'client', 'interface', 'system']
 url: 'https://github.com/Booster1212/OpenSourceShop'
 discord: 'Der Lord!#6021'

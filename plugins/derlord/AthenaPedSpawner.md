@@ -4,7 +4,7 @@ title: 'PedController'
 description: "PedController which allows you to spawn Peds with Textlabels Ingame."
 author: 'Der Lord!'
 version: '3.0.0+'
-images: ['https://user-images.githubusercontent.com/82890183/148577043-fc9cf1e5-b72f-4684-b76e-7c0afdfd26ee.png', 'https://user-images.githubusercontent.com/82890183/147367516-091263a4-a68b-4deb-81b3-18040cf00bd6.png']
+images: ['https://user-images.githubusercontent.com/82890183/148626532-0a5ad4c8-5f40-4b01-96bd-11482dd55602.png', 'https://user-images.githubusercontent.com/82890183/147367516-091263a4-a68b-4deb-81b3-18040cf00bd6.png']
 keywords: ['premium', 'player', 'system', 'client', 'interface']
 url: 'https://holylord.gumroad.com/l/osfel'
 price: "5.00"

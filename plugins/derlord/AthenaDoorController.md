@@ -4,7 +4,7 @@ title: 'Athena DoorController v3'
 description: 'Full dynamic DoorController which allows you to manage doors ingame.'
 author: 'Der Lord!'
 version: '3.0.0+'
-images: ['https://user-images.githubusercontent.com/82890183/147709903-28af3180-38fe-4aa0-b11e-70813c11df79.png', 'https://user-images.githubusercontent.com/82890183/147631180-c26ff168-ab1c-4ae8-83ab-fa152e2e665d.png', 'https://user-images.githubusercontent.com/82890183/147631218-c2468894-1b0a-4a6b-ac0a-a5f7cb6a5f5f.png', 'https://user-images.githubusercontent.com/82890183/147719985-0fb6952b-0b68-42b1-a8f4-1ce1555c2252.png']
+images: ['https://user-images.githubusercontent.com/82890183/148626547-272343c0-fa5a-42e5-94ea-832ef636997e.png', 'https://user-images.githubusercontent.com/82890183/147631180-c26ff168-ab1c-4ae8-83ab-fa152e2e665d.png', 'https://user-images.githubusercontent.com/82890183/147631218-c2468894-1b0a-4a6b-ac0a-a5f7cb6a5f5f.png', 'https://user-images.githubusercontent.com/82890183/147719985-0fb6952b-0b68-42b1-a8f4-1ce1555c2252.png']
 keywords: ['free', 'player', 'system', 'streamer', 'client']
 url: 'https://github.com/Booster1212/AthenaDoorController'
 discord: 'Der Lord!#6021'
