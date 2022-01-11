@@ -1,7 +1,7 @@
 ---
 layout: ../../../../layouts/Main.astro
-title: 'PedController'
-description: "PedController which allows you to spawn Peds with Textlabels Ingame."
+title: 'Ped Spawner'
+description: "Ped Spawner which allows you to spawn Peds with Textlabels Ingame."
 author: 'Der Lord!'
 version: '3.0.0+'
 images: ['https://user-images.githubusercontent.com/82890183/148626532-0a5ad4c8-5f40-4b01-96bd-11482dd55602.png', 'https://user-images.githubusercontent.com/82890183/147367516-091263a4-a68b-4deb-81b3-18040cf00bd6.png']
