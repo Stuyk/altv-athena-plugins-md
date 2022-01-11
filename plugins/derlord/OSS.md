@@ -9,7 +9,9 @@ keywords: ['free', 'player', 'server', 'client', 'interface', 'system', 'item']
 url: 'https://github.com/Booster1212/OpenSourceShop'
 discord: 'Der Lord!#6021'
 ---
-# OpenSourceShop![Fichier 37mdpi](https://user-images.githubusercontent.com/82890183/148142146-ba173e98-4c11-47d9-95da-6d83de2608af.png)
+# OpenSourceShop
+
+<img src="https://user-images.githubusercontent.com/82890183/148142146-ba173e98-4c11-47d9-95da-6d83de2608af.png" width="650" />
 
 Welcome to Athena Open Source Shop! 
 Bringing Shops to the Athena Framework as absolute free and open source solution licensed as MIT. 
