@@ -101,7 +101,7 @@ export const ShopRegistry: IShop[] = [
 ];
 ```
 
-<img src="https://user-images.githubusercontent.com/82890183/148910952-470985fe-5fed-41ed-8b87-08c9977f71c2.png" width="6500"/>
+<img src="https://user-images.githubusercontent.com/82890183/148910952-470985fe-5fed-41ed-8b87-08c9977f71c2.png" width="650"/>
 
 ![image](https://user-images.githubusercontent.com/82890183/148634183-00270cd2-ba69-4a46-94ba-58434967c890.png)
 
