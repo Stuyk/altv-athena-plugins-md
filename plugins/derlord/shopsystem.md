@@ -3,7 +3,7 @@ layout: ../../../../layouts/Main.astro
 title: "Open Source Shop"
 description: "Bringing Shops to the Athena Framework, absolute free and open source! Licensed under MIT"
 author: "Der Lord!"
-version: "3.0.4+"
+version: "3.2.5+"
 images:
   [
     "https://user-images.githubusercontent.com/82890183/148626519-5dc1ced7-a4d9-4f86-a349-26e58729cea8.png",
