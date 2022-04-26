@@ -3,7 +3,7 @@ layout: ../../../../layouts/Main.astro
 title: 'Athena Farming Controller'
 description: "Some simple farming system for the Athena Framework - Free, Customizable and Open Source!"
 author: 'Der Lord!'
-version: '3.0.4+'
+version: '3.2.5+'
 images: ['https://user-images.githubusercontent.com/82890183/148943871-d2df632e-1235-4ea5-af79-01e63857e41a.png']
 keywords: ['free', 'player', 'server', 'system', 'item']
 url: 'https://github.com/Booster1212/AthenaFarmController'
